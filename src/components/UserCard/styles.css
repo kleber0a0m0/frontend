@@ -1,0 +1,33 @@
+.fotoPerfil {
+  width: 50px;
+  border-radius: 100%;
+  border: 3px solid #fff;
+  margin-right: 20px;
+}
+
+.iconeSair {
+  width: 35px;
+  font-size: 35px;
+  margin-left: 30px;
+  color: #fff;
+}
+
+.iconeSair:hover {
+  width: 35px;
+  font-size: 35px;
+  margin-left: 30px;
+  color: rgb(202, 202, 202);
+}
+
+.nome {
+  margin: 0px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.cargo {
+  margin: 1px;
+  font-size: 14px;
+  color: #fff;
+}
